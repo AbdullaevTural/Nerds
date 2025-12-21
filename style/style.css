@@ -399,14 +399,14 @@ a {
   margin-bottom: 0px;
 }
 
-.services li {
+.about-directions li {
   list-style: none;
   position: relative;
   padding-left: 24px;
   margin-bottom: 16px;
 }
 
-.services li::before {
+.about-directions li::before {
   content: "";
   position: absolute;
   left: -32px;
@@ -416,7 +416,7 @@ a {
   background: url("../img/hr-li.svg") no-repeat center / contain;
 }
 
-.services li:last-child {
+.about-directions li:last-child {
   margin-bottom: 0;
 }
 
@@ -972,7 +972,7 @@ a {
   line-height: 30px;
 }
 
-.sort h4 {
+.sort b {
   font-size: 18px;
   line-height: 18px;
   margin: 0;
